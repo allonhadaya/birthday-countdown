@@ -1,4 +1,4 @@
-﻿namespace BirthdayCounter
+﻿namespace BirthdayCountdown
 {
     partial class BirthdayCountdownForm
     {
