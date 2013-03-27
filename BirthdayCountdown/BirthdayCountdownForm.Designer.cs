@@ -68,6 +68,7 @@
             this.ClientSize = new System.Drawing.Size(324, 67);
             this.Controls.Add(this.countdownLabel);
             this.Controls.Add(this.birthdayPicker);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "BirthdayCountdownForm";
             this.Text = "Birthday Countdown";
             this.ResumeLayout(false);
